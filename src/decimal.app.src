@@ -1,0 +1,8 @@
+{application, decimal, [
+ {description, "An Erlang decimal arithmetic library"},
+ {vsn, "0.2.1"},
+ {registered, []},
+ {applications, [stdlib,
+                 kernel]},
+ {env, []}
+]}.
